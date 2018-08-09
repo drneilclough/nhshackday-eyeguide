@@ -1,6 +1,6 @@
 ---
 title: Entropion
-date: "2017-08-21"
+date: "2018-08-08"
 category: ["adnexal"]
 ---
 

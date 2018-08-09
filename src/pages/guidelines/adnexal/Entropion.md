@@ -1,7 +1,7 @@
 ---
 title: Entropion
 date: "2018-08-08"
-category: ["WTF"]
+category: ["Adnexal"]
 ---
 
 ## KEY ADVICE 

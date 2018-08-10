@@ -2,19 +2,19 @@
 
 ---
 **Table of contents**
-* [Background](https://github.com/vlbee/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#background)
-* [Writing new guidelines in Markdown](https://github.com/vlbee/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#writing-new-guidelines-in-markdown)
-* [Navigating to the guidelines folder](https://github.com/vlbee/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#navigating-to-the-guidelines-folder)
-* [Adding a new Markdown file for a new condition](https://github.com/vlbee/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#adding-a-new-markdown-file-for-a-new-condition)
-* [Editing an existing condition](https://github.com/vlbee/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#editing-an-existing-condition)
-* [Deleting a file](https://github.com/vlbee/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#deleting-a-file)
-* [Adding a new category](https://github.com/vlbee/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#adding-a-new-category)
-* [Questions or Problems?](https://github.com/vlbee/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#questions-or-problems)
+* [Background](https://github.com/drneilclough/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#background)
+* [Writing new guidelines in Markdown](https://github.com/drneilclough/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#writing-new-guidelines-in-markdown)
+* [Navigating to the guidelines folder](https://github.com/drneilclough/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#navigating-to-the-guidelines-folder)
+* [Adding a new Markdown file for a new condition](https://github.com/drneilclough/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#adding-a-new-markdown-file-for-a-new-condition)
+* [Editing an existing condition](https://github.com/drneilclough/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#editing-an-existing-condition)
+* [Deleting a file](https://github.com/drneilclough/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#deleting-a-file)
+* [Adding a new category](https://github.com/drneilclough/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#adding-a-new-category)
+* [Questions or Problems?](https://github.com/drneilclough/nhshackday-eyeguide/blob/master/CONTRIBUTING.md#questions-or-problems)
 ---
 
 ## BACKGROUND
 
-This is a guide on how to add or update Guideline markdown content to [Eye Guide](https://github.com/vlbee/nhshackday-eyeguide/), which will be automatically generated into new guidelines pages on the [Emergency Eye Guide website](https://emergency-eye-guide.netlify.com/).
+This is a guide on how to add or update Guideline markdown content to [Eye Guide](https://github.com/drneilclough/nhshackday-eyeguide/), which will be automatically generated into new guidelines pages on the [Emergency Eye Guide website](https://emergency-eye-guide.netlify.com/).
 - **Conditions** are grouped by **category**. The category names will be listed on the first page of the application.
     - On clicking on a category, a list of all the conditions within that category are listed.
     - On clicking of a condition name, the written guidelines for that condition will be shown.
@@ -30,7 +30,7 @@ This is a guide on how to add or update Guideline markdown content to [Eye Guide
     * We recommend using it to prepare your drafts or update drafts of existing guidelines, and only upload them to Github when the text is ready to go live on the website.
     * HackMD also autosaves, and you can share the link to anyone who can edit the same file. Ensure you don't lose your text by saving the link, or signing in using a [GitHub account](https://github.com).
 
-3. ⚠️The content structure of your markdown **must match the format of this [TEMPLATE](https://raw.githubusercontent.com/vlbee/nhshackday-eyeguide/master/TEMPLATE.md)** - copy and paste it to the a new [HackMD note](https://hackmd.io) to get started.
+3. ⚠️The content structure of your markdown **must match the format of this [TEMPLATE](https://raw.githubusercontent.com/drneilclough/nhshackday-eyeguide/master/TEMPLATE.md)** - copy and paste it to the a new [HackMD note](https://hackmd.io) to get started.
     * **Ensure the very top meta-data section between `---` includes:**
         * `title: Name of the condition`
         * `date: "2017-08-21"` - this date will appear at the bottom of your draft as the *Last Updated -date-*. Must be in `YYYY-MM-DD` format and in quotes.
@@ -50,25 +50,25 @@ This is a guide on how to add or update Guideline markdown content to [Eye Guide
 * You do not need to add the condition again in a heading, since the application will use the title in this top meta-data section to generate it automatically.
 * Any content underneath the meta-data section can be written in Markdown (go crazy with Markdown here if you like - bullet points are always handy!).
     * *N.B. The application will automatically generate a table of contents at the top of the page (that links to the appropriate sections) using the Headings (indicated by the Markdown hashtags - #)*
-* When copy-pasting from `TEMPLATE.md`, ensure you are copying the *raw* text or follow this [link](https://raw.githubusercontent.com/vlbee/nhshackday-eyeguide/master/TEMPLATE.md) to go direct to the raw text. 
+* When copy-pasting from `TEMPLATE.md`, ensure you are copying the *raw* text or follow this [link](https://raw.githubusercontent.com/drneilclough/nhshackday-eyeguide/master/TEMPLATE.md) to go direct to the raw text. 
 
 ## NAVIGATING TO THE GUIDELINES FOLDER
 
-Navigate to [the Eye Guide GitHub code repo](https://github.com/vlbee/nhshackday-eyeguide)
+Navigate to [the Eye Guide GitHub code repo](https://github.com/drneilclough/nhshackday-eyeguide)
 
-1. After navigating to [the Eye Guide GitHub code repo](https://github.com/vlbee/nhshackday-eyeguide), you will encounter all the files that make up the application: ![View of the Githb page](https://i.imgur.com/jHO4Adz.png)
+1. After navigating to [the Eye Guide GitHub code repo](https://github.com/drneilclough/nhshackday-eyeguide), you will encounter all the files that make up the application: ![View of the Githb page](https://i.imgur.com/jHO4Adz.png)
 
 
 2. Click into the `src` folder.
 
 3. Next, click into the `pages` folder.
 
-4. Finally click on the `guidelines` folder (alternatively this is the [direct link to this folder](https://github.com/vlbee/nhshackday-eyeguide/tree/master/src/pages/guidelines)). You will see a list of folders for each condition **category**.
+4. Finally click on the `guidelines` folder (alternatively this is the [direct link to this folder](https://github.com/drneilclough/nhshackday-eyeguide/tree/master/src/pages/guidelines)). You will see a list of folders for each condition **category**.
 ![the guidelines folder](https://i.imgur.com/k6WXZ2a.png)⚠️**This is the location of the guidelines content and only folder you should be modifying.**
 
 ## ADDING A NEW MARKDOWN FILE FOR A NEW CONDITION
 
-1. Ensure you have navigated to the [guidelines folder](https://github.com/vlbee/nhshackday-eyeguide/tree/master/src/pages/guidelines).
+1. Ensure you have navigated to the [guidelines folder](https://github.com/drneilclough/nhshackday-eyeguide/tree/master/src/pages/guidelines).
 
 2. Have your clinical guideline document ready to upload, written using **Markdown** - as instructed above (in the section "Writing new guidelines in Markdown"). 
 

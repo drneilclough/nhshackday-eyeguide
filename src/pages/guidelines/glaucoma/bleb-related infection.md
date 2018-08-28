@@ -6,9 +6,10 @@ category: ["glaucoma"]
 
 ## KEY ADVICE 
 
-1. Onset can be months to years post op.
+1. Onset can be months to years post op
 
-2. A/C cells +1 or more in context of blebitis = treat as endopthalmitis irrespective of presence of vitritis. 
+2. A/C cells +1 or more in context of blebitis = treat as endopthalmitis irrespective of presence of vitritis
+3. Moxifloxacin **CONTRAINDICATED** in children and pts with liver disease.  Use ciprofloxacin  
 
  ## BLEBITIS
 

@@ -22,7 +22,7 @@ category: ["glaucoma"]
 - Levofloxacin hourly day and night AND
 - Cefuroxime hourly day and night
 5. **Oral antibiotics:**
-- Moxifloxacin 400mg od 10/7 (note contraindications, warn all pts of hepatitis + document in notes
+- Moxifloxacin 400mg od 10/7 (note contraindications, warn all pts of hepatitis + document in notes)
 - Co-amoxiclav 625mg tds 7/7 (Azithromycin 500mg 3/7 if penicillin allergy)
 6. Topical steroids - **do not start immediately**, usually wait 24-48hrs, to be guided by glaucoma consulant. 
 7. **ALL patients** must be reviewed after 4-6 hours to evaluate progression. 

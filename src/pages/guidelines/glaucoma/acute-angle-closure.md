@@ -1,19 +1,19 @@
 ---
 title: Acute Angle Closure Glaucoma
-date: "2018-08-28"
+date: "2018-08-"
 category: ["glaucoma"]
 ---
 
 ## KEY ADVICE 
-1. Mechanism 
+**1. Mechanism:** 
 - Primary or secondary? Primary (90%) = pupil block or peripheral iris crowding. Secondary (10%) = lens induced, causes behind lens
  - If suspect secondary causes eg lens, aqueous misdirection, choroidals, etc, lower IOP, but DISCUSS WITH GLAUCOMA CONSULTANT before using pilocarpine 
  - ? Pupil block present: Peripheral iris usually flattens on indentation gonioscopy in pupil block PACG.  If pupil block present but AC is asymmetrically   shallow centrally, consider secondary causes 
 
 
-2.	All PACG should have bilateral PIs before leaving department 
+**2.	All PACG should have bilateral PIs before leaving dept** 
 
-3.	Arrange follow-up at 7 days** 
+**3.	Arrange follow-up at 7 days**
  ## MANAGEMENT 
  ### _IMMEDIATE_ 
  
@@ -42,19 +42,15 @@ category: ["glaucoma"]
  
  ## CAUTION 
  
-**All urgent care cases should be discussed with the allocated urgent care consultant of the day (listed on rota)**
+**All urgent care cases should be D/W the allocated urgent care consultant of the day (listed on rota)**
 
 
 
-1.	Acetazolomide: 
+**Acetazolomide:**
 * Careful use of in elderly &/or small patients
 * Check contraindications
 * Explain likely SEs, and what to do if concerned
 
-2.	Pilocarpine: 
+**Pilocarpine:**
 * Do not use intensively
 * May be ineffective if IOP>50, can also cause paradoxical A/C shallowing and worsen pupil block if used intensively
-
-
-
-

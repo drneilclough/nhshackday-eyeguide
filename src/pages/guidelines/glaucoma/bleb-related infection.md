@@ -1,67 +1,42 @@
 ---
 title: bleb related infection
-date: "2017-08-21"
+date: "2018-08-29"
 category: ["glaucoma"]
 ---
 
 ## KEY ADVICE 
 
-1.  Mechanism = primary or secondary? 
-  a.	Primary (90%) = pupil block or peripheral iris crowding 
-  b.	Secondary (10%) = lens induced, causes behind lens
- c.	?Pupil block present: Peripheral iris usually flattens on indentation gonioscopy in pupil block PACG
- d.	If pupil block present, but AC is asymmetrically   shallow centrally, consider secondary causes 
+1. Onset can be months to years post op.
 
-2. Treat relevant cause 
- a.	PACG = see management 
- b. If suspect secondary causes eg lens, aqueous misdirection, choroidals, etc, lower IOP, but **DISCUSS WITH GLAUCOMA CONSULTANT** before using pilocarpine 
+2. A/C cells +1 or more in context of blebitis = treat as endopthalmitis irrespective of presence of vitritis. 
 
-3.	All PACG should have bilateral PIs before leaving department 
+ ## BLEBITIS
 
-4.	Arrange follow-up at 7 days 
-
- ## MANAGEMENT 
 
  
- ### _IMMEDIATE_ 
+1. Admit + inform on call urgent care consultant + glaucoma consultant
+2. Conj swab: micro/culture/sensitivites
+3. Povidone Iodine 5% into conjunctival sac
+4. **Topical antibiotics**:
+- Levofloxacin hourly day and night AND
+- Cefuroxime hourly day and night
+5. **Oral antibiotics:**
+- Moxifloxacin 400mg od 10/7 (note contraindications, warn all pts of hepatitis + document in notes
+- Co-amoxiclav 625mg tds 7/7 (Azithromycin 500mg 3/7 if penicillin allergy)
+6. Topical steroids - **do not start immediately**, usually wait 24-48hrs, to be guided by glaucoma consulant. 
+7. **ALL patients** must be reviewed after 4-6 hours to evaluate progression. 
+
+
  
-1. Diamox 500mg IV (if acute + symptoms)
-2. Pilocarpine 2% (4% dark irides)
-3. Timolol 0.25% (check contraindications: asthma, heartblock)
-4. Iopidine 0.5%
-5. Pred forte 1%
-6. Lie patient supine 
-7. Analgesia/antiemetics 
-
- ### _REASSESS @ 60 MIN_ 
+ ## BLEB-RELATED ENDOPHTHALMITIS 
  
-1.  IOP still elevated: 
-a. Consider indenting central cornea gently with 4 mirror lens or moistened cotton bud. 2–3 cycles of 30s on/off 
-b. Discuss with glaucoma/urgent care consultant regarding further management
-
-2.	IOP reduced 
-a. Bilateral PIs, then if IOP controlled, discharge on:
-i. Pilocarpine 2% qid (4% dark irides)
-ii.	Apraclonidine 0.5% tid
-iii. Pred forte 1% 2-hourly, qid in fellow eye 
-iv.	Acetazolamide PO 250mg qid, (omit if IOP <10mm HG)
-   
-   b. Book follow-up 7 days glaucoma clinic. Notify consultant of patient.
- 
- ## CAUTION 
- 
-**All urgent care cases should be discussed with the allocated urgent care consultant of the day (listed on rota)**
-
-
-
-1.	Acetazolomide: 
-a.	Careful use of in elderly &/or small patients
-b.	Check contraindications
-c.	Explain likely SEs, and what to do if concerned
-
-2.	Pilocarpine: 
-a.	Do not use intensively
-b.	May be ineffective if IOP>50, can also cause paradoxical A/C shallowing and worsen pupil block if used intensively
-
+1. Admit + inform on call urgent care consultant + glaucoma consultant. 
+2. Conjunctival swab as above **AND** A/C tap and vitreous sampling
+3. Povidone Iodine 5% into conjunctival sac
+4. **Intravitreal antibiotics:** vancomycin 2mg **AND** amikacin 0.4mg OR ceftazidime 2mg
+5. **Intravitreal steroids**: dexamethasone 0.4mg
+6. **Antibiotics**: topcal and oral as above
+7. **Topical steroids**: pred forte 1% qid
+8. **Systemic steroids**: prednisolone 1mg/kg **12 hours after admission if no contraindications**
 
 

@@ -34,19 +34,28 @@ e. conjunctival swab ( viral/micro)
  ## MANAGEMENT 
 
  ### _IMMEDIATE_ 
- 
-1. Admit under the medical team at Croydon via medical registrar on call (bleep) children under paediatric team (bleep): instruct medical team the guideline for IV treatment
-2. IV Ceftriaxone 2-4g daily in divided doses 
-3. IV Metronidazole 500mg TDS for adult and children > 10 yrs old ( check BNF)
-4. Saline nasal wash
-5. Otrivine Nasal Drops BD
-6. Bloodd: FBC, U&E, CRP, ESR, BLOOD CULTURE
-7. Order CT imaging of orbit, sinus and brain 
-    * if unwell or optic nerve compromise - discuss with radiologist for scan ASAP
-    * if well, discuss with ENT@SGH, may be reasonable to observe effect of antibiotic first.
+ ADULTS
+1. Admit under the medical team at Croydon via medical registrar on call ( bleep 707 or 837)
+2. Advice Medical team the following treatment:
+    * IV Ceftriaxone 2-4g daily in divided doses 
+    * IV Metronidazole 500mg TDS for adult and children > 10 yrs old ( check BNF)
+    * Saline nasal wash
+    * Otrivine Nasal Drops BD
+    * Bloodd: FBC, U&E, CRP, ESR, BLOOD CULTURE
+    * Order CT imaging of orbit, sinus and brain (3mm cut axial and coronal/ Nose to cavernous sinus)
+
+**If unwell or optic nerve compromise - discuss with radiologist for scan ASAP**
+
+CHILD
+1. Refer to Paediatric Assessment Unit for admission (tel: 07562647897 or via the Paediatric Registrar on-call.)
+2. Advice paed team to treat with IV abx ( paed team will have own protocol, however if unclear:)
+    * Ceftriaxone 80mg/kg (max 4mg) IV daily
+    * AND Flucloxacillin 50mg/kg ( max 2g) 6 hourly
+    * *Clindamycin 10mg/kg 8 hourly for penicillin allergies* 
+    * *Metronidazole in older children or previous chronic sinus disease only*
 
 
- ### _DISCUSS WITH SGH ENT ONCALL_(bleep : ) 
+ ### _DISCUSS WITH SGH ENT ONCALL FOR BOTH PAED AND ADULT PATIENTS_
  
 1.  Informationto give ENT: 
     a. patient details, location of ward in CUH
@@ -56,16 +65,28 @@ e. conjunctival swab ( viral/micro)
     e. confirm plans with ENT, 
     i.e. if improve over 24 hrs - stay in CUH, if deteriorates transfer to SGH under ENT
 
-2.	Liase with CUH Medical team 
-    a.Document everything on CERNER medical notes
-    b.Discuss plan with ward medical SHO and registrar, they will do drug chart and systemic assessment
+2.	Liase with CUH Medical team / Paediatric team 
+    a.Document everything on **CERNER medical notes**
+    b.Discuss plan with ward SHO and registrar, they will do drug chart and systemic assessment
+
+ ### _Transfer to SGH_
  
- ### _REVIEWS AND FOLLOW-UP_ 
+ 1. Consider transfer to SGH if
+    * not responding to medical treatment
+    * CT showed severe sinus disease or orbital collection
+    * optic nerve compromise or tense orbit
+ 2. Discuss to ENT team at SGH, it is the Ophthalmology' team's job to discuss and get the ENT team to accept patient onto their ward.  
+ 3. Once ENT accepts, they will liaise with the CUH ward to arrange transfer.
+ 4. Inform the SGH Ophthalmology team (Urgent care consultant : Ms Rathie Rajandran) about transfer so pt added onto ward round list.
+
+**document everything clearly on CERNER and handover to medical team verbally as well**
+ 
+ ### _REVIEWS AND FOLLOW-UP (if not transferred)_ 
  
 1.  If Evidence of optic nerve compromise: 
 a. 4 hourly visions, pupils and colour assessment
 b. teach the medical team how to do this
-c. Adnexal/ENT team to be involved at SGH ASAP 
+c. Adnexal/ENT team to be involved at SGH ASAP (see transfer guide above)
 
 2.	If Normal optic nerve and signs of improvment 
 
@@ -79,6 +100,8 @@ c. Adnexal/ENT team to be involved at SGH ASAP
 1.	Children can deteriorate very fast
 
 2.	Immunocompromsied patients can have unusual organisms: 
+
+
 
 
  ## CHAIN OF COMMANDS

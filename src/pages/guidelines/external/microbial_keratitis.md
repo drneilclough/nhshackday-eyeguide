@@ -6,62 +6,66 @@ category: ["external"]
 
 ## KEY ADVICE 
 
-1.  Mechanism = primary or secondary? 
-  a.	Primary (90%) = pupil block or peripheral iris crowding 
-  b.	Secondary (10%) = lens induced, causes behind lens
- c.	?Pupil block present: Peripheral iris usually flattens on indentation gonioscopy in pupil block PACG
- d.	If pupil block present, but AC is asymmetrically   shallow centrally, consider secondary causes 
-
-2. Treat relevant cause 
- a.	PACG = see management 
- b. If suspect secondary causes eg lens, aqueous misdirection, choroidals, etc, lower IOP, but **DISCUSS WITH GLAUCOMA CONSULTANT** before using pilocarpine 
-
-3.	All PACG should have bilateral PIs before leaving department 
-
-4.	Arrange follow-up at 7 days 
+1.  Suspect infection in all contact lens wearers
+2.  Most common pathogen is pseudomonas.
+3.  Ask about contact lens wear:type, duration, worn to sleep, shower, swim, contact with stagnant freshwater(amoeba)
+4.  Contact lens wearer + dentrites = acanthomoeba until proven otherwise (**Do not** assume its HSK)
+5.  Do not start steroid treatment in supected infection without senior advice.
+6.  Unusual presentations or unresponsive to treatment be suspicious of fungal or acanthomoeba. (see section on fungal/ acanthomoeba keratitis)
+     
 
  ## MANAGEMENT 
 
  
  ### _IMMEDIATE_ 
  
-1. Diamox 500mg IV (if acute + symptoms)
-2. Pilocarpine 2% (4% dark irides)
-3. Timolol 0.25% (check contraindications: asthma, heartblock)
-4. Iopidine 0.5%
-5. Pred forte 1%
-6. Lie patient supine 
-7. Analgesia/antiemetics 
+1. Document size of epithelial defect ( the area uptaing stain, NOT  the area of infiltrate)Any fibrin/ hypopyon/ AC activity
+3. Send off contact lens if available for microbiology
+4. Corenal scrape any ulcer > 1mm
+5. Steps in Corneal scrape:
+* Topical anaesthetic
+* Organge needles x 5 (new needle for every plate)
+* Corneal plates ( in packs in treatment room fridge)
+    * Glass slide (gram stain)
+    * Blood agar (aerobes + anaerobes)
+    * Sabaurounds agar ( fungi) if suspect fungus-PCR
+    * Brain-heart infusion broth (fungi + aerobes)
+* label all plates correctly
+* Request on CERNER microbiology forms, print out request form and send plates to CUH pathology.
+* Documentation **AFTER** scraping
+    * Size of epithelial defect post-scraping
+    * area and depth of thinning if any
+    * size of infiltrate
+    * any fibirn/ hypopyon
 
- ### _REASSESS @ 60 MIN_ 
- 
-1.  IOP still elevated: 
-a. Consider indenting central cornea gently with 4 mirror lens or moistened cotton bud. 2–3 cycles of 30s on/off 
-b. Discuss with glaucoma/urgent care consultant regarding further management
+6. Treatment:
+    * g. Moxivig hourly day + night for 48 hours then taper accordingly.
+    * g. Cyclopentolate 1% BD in patient with AC reaction
+    
 
-2.	IOP reduced 
-a. Bilateral PIs, then if IOP controlled, discharge on:
-i. Pilocarpine 2% qid (4% dark irides)
-ii.	Apraclonidine 0.5% tid
-iii. Pred forte 1% 2-hourly, qid in fellow eye 
-iv.	Acetazolamide PO 250mg qid, (omit if IOP <10mm HG)
-   
-   b. Book follow-up 7 days glaucoma clinic. Notify consultant of patient.
+ ### _Scrape Results_ 
  
+1.  Gram stain and micropsy should be ready in few hours, phone lab for results if needed.
+2.  Cultures- after 48 hrs - Check on CERNER
+
+ ### _FOLLOW-UP_
+ 
+ 1. Review in Rapid Access Clinic at 48 hours 
+ (email: moorfields.croydonurgentcare@nhs.net)
+ 3. If epithelial defect resolved - taper to 6xday for 1 week and discharge
+ 4. If improving but still have defect - refer for review in General clinic/ PCC via email.
+ 5. If no improvement or worsening in symptoms and signs - duty consultant or corneal fellow for urgent review.
+
  ## CAUTION 
  
-**All urgent care cases should be discussed with the allocated urgent care consultant of the day (listed on rota)**
-
-
-
-1.	Acetazolomide: 
-a.	Careful use of in elderly &/or small patients
-b.	Check contraindications
-c.	Explain likely SEs, and what to do if concerned
-
-2.	Pilocarpine: 
-a.	Do not use intensively
-b.	May be ineffective if IOP>50, can also cause paradoxical A/C shallowing and worsen pupil block if used intensively
-
-
-
+1. Most cases improve within 48 hours, at least pain will improve.
+2. Suscisious of fungal if
+    * trauma with plant material
+    * immunocompromised/ diabetes
+    * very white abscess with stromal/endothelial progression
+3. Suspicious of acanthomoeba if
+    * Pain disporportion to epithelial defect
+    * Poor contact lens hygiene
+    * "looks like HSK / disciform keratits"
+    * Prominent corneal nerves
+    * Microcysts

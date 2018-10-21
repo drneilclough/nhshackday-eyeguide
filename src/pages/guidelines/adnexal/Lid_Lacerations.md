@@ -54,10 +54,15 @@ Pari.Shams@moorfields.nhs.uk
 
 d.lorenzano@nhs.net
 
-Adnexal clinics: 
+**Adnexal clinics:** 
+
 All day Tue
+
 Wed morning 
+
 All day Thur
-Adnexal Theatre:
+
+**Adnexal Theatre:**
+
 Wed pm 
 

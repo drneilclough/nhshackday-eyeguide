@@ -16,8 +16,7 @@ Corneal protection is main concern, there is a risk of sight threatening keratit
 Patients should be referred to adnexal team.  Urgency depends on extent of corneal involvement.  If keratitis present then consider urgent surgery
 
 
-**Details of adnexal team**
-Email:
+**Adnexal team**
 
 [emma.skinner10@nhs.net](https://)
 

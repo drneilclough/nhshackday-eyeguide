@@ -26,10 +26,16 @@ Email:
 [d.lorenzano@nhs.net](https://)
 
 **Adnexal clinics:**
+
 All day Tue
+
 Wed morning 
+
 All day Thur
 
 
 **Adnexal Theatre:**
+
 Wed pm 
+
+

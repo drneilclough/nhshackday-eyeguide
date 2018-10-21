@@ -6,61 +6,65 @@ category: ["adnexal"]
 
 ## KEY ADVICE 
 
-1.  Mechanism = primary or secondary? 
-  a.	Primary (90%) = pupil block or peripheral iris crowding 
-  b.	Secondary (10%) = lens induced, causes behind lens
- c.	?Pupil block present: Peripheral iris usually flattens on indentation gonioscopy in pupil block PACG
- d.	If pupil block present, but AC is asymmetrically   shallow centrally, consider secondary causes 
+1.  Assess any risk of dysthyroid optic neuropathy
+      **Document:**
+    * VA
+    * RAPD
+    * Colour vision ( Ishihara/ red desaturation)
+    * Fundoscopy - optic disc pallor? oedema?
+    * Diplopia assessment ( pain + restriction)
+    * Tense orbit? ( test retropulsion / IOP)
+    * Exothalmometer for proptosis 
 
-2. Treat relevant cause 
- a.	PACG = see management 
- b. If suspect secondary causes eg lens, aqueous misdirection, choroidals, etc, lower IOP, but **DISCUSS WITH GLAUCOMA CONSULTANT** before using pilocarpine 
+2. Assess risk of exposure keratopathy
+ **Document**
+    * Degree of lagophtalmos ( Blink, gentle closure, forced closure)
+    * lid retraction
+    * degree of proptosis
+    * Bell's phenomenon ( cornea covere?)
+    * Corneal sensation
+    * Evidence of epithelial defect
 
-3.	All PACG should have bilateral PIs before leaving department 
-
-4.	Arrange follow-up at 7 days 
 
  ## MANAGEMENT 
 
+ ### _NO sight threatening keratitis and normal optic nerve function_ 
  
- ### _IMMEDIATE_ 
- 
-1. Diamox 500mg IV (if acute + symptoms)
-2. Pilocarpine 2% (4% dark irides)
-3. Timolol 0.25% (check contraindications: asthma, heartblock)
-4. Iopidine 0.5%
-5. Pred forte 1%
-6. Lie patient supine 
-7. Analgesia/antiemetics 
+1. Document CAS score (3/10 = active thyroid eye disease)
+2. Bloods for TFT and Thyroid antibody if undiagnosed thyroid, refer to Endocrinology team 
+3. Lubricants for exposure
+4. Refer to Adnexal for follow-up in 3-4/12
+5. Advice to stop smoking and take selenium supplement.
 
- ### _REASSESS @ 60 MIN_ 
+ ### _Sight threatenting exposure keratitis_ 
  
-1.  IOP still elevated: 
-a. Consider indenting central cornea gently with 4 mirror lens or moistened cotton bud. 2–3 cycles of 30s on/off 
-b. Discuss with glaucoma/urgent care consultant regarding further management
+1.  Treat any infective ulcers with g. Moxivig as per corneal ulcer protocol
+2.  Treat severe SPK with lubricants drops and ointments.
+3.  Consider short course of steoroid drops
+4.  Urgent referral to Adnexal team
 
-2.	IOP reduced 
-a. Bilateral PIs, then if IOP controlled, discharge on:
-i. Pilocarpine 2% qid (4% dark irides)
-ii.	Apraclonidine 0.5% tid
-iii. Pred forte 1% 2-hourly, qid in fellow eye 
-iv.	Acetazolamide PO 250mg qid, (omit if IOP <10mm HG)
-   
-   b. Book follow-up 7 days glaucoma clinic. Notify consultant of patient.
+### _Dysthyroid orbitopathy causing compressive optic neuropathy_
+1. Document optic nerve function
+2. liase with Adnexal Fellow on-call urgently at SGH ( or City Road)for acceptance of managment
+3. patient may require
+* Urgent medical decompression via IV methylpred
+* and/or Urgent surgical decompreession
+
  
  ## CAUTION 
  
 **All urgent care cases should be discussed with the allocated urgent care consultant of the day (listed on rota)**
 
+**LIASE CLOSELY WITH ADNEXAL AND CORNEAL TEAM**
 
 
-1.	Acetazolomide: 
-a.	Careful use of in elderly &/or small patients
-b.	Check contraindications
-c.	Explain likely SEs, and what to do if concerned
 
-2.	Pilocarpine: 
-a.	Do not use intensively
-b.	May be ineffective if IOP>50, can also cause paradoxical A/C shallowing and worsen pupil block if used intensively
+## CAUTION 
+Adenxal consulants
+
+Ms Pari Shams (CUH)
+Mr Daniele Lorenzo (CUH)
+Mr Jimmy Uddin (SGH)
+Ms Sarah Osborne (SGH)
 
 

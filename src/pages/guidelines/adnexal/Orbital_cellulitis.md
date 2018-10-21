@@ -84,9 +84,9 @@ c. Adnexal/ENT team to be involved at SGH ASAP
  ## CHAIN OF COMMANDS
  
  ADULT
-     1. Ms Pei-Fen Lin (Urgent care consultant/ p.lin@nhs.net)
-     2. Ms Pari Shams (Adnexal consultant/ Pari.Shams@moorfields.nhs.net)
-     3. Mr Danielle Lorenzano ( Danilelle.lorenzano@moorfields.nhs.net)
+ 1. Ms Pei-Fen Lin (Urgent care consultant/ p.lin@nhs.net)
+ 2. Ms Pari Shams (Adnexal consultant/ Pari.Shams@moorfields.nhs.net)
+ 3. Mr Danielle Lorenzano ( Danilelle.lorenzano@moorfields.nhs.net)
      
  PAEDIATRIC
-     1. Mr Chris Child ( chris.child@moorfields.nhs.net)
+ 1. Mr Chris Child ( chris.child@moorfields.nhs.net)

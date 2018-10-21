@@ -59,8 +59,7 @@ category: ["adnexal"]
 
 
 
-## CAUTION 
-Adenxal consulants
+## Adnexal Consultants
 
 Ms Pari Shams (CUH)
 Mr Daniele Lorenzo (CUH)

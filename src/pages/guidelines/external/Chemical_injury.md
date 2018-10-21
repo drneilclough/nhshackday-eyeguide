@@ -6,62 +6,46 @@ category: ["external"]
 
 ## KEY ADVICE 
 
-1.  Mechanism = primary or secondary? 
-  a.	Primary (90%) = pupil block or peripheral iris crowding 
-  b.	Secondary (10%) = lens induced, causes behind lens
- c.	?Pupil block present: Peripheral iris usually flattens on indentation gonioscopy in pupil block PACG
- d.	If pupil block present, but AC is asymmetrically   shallow centrally, consider secondary causes 
+1.  Early and good quality irrigation is paramount and will affect the final outcome.  Treat before vision testing. 
+2.  Alkali burns are more destructive than acid eg ammonia, drain cleaner, lime in wet plaster, cement, mortar. 
+3.  Check on toxbase if unsure of pH of agent
+4.  Document details & timing of injury, extent of exposure and measures already taken.
+5.  Document: Vision, facial skin involevement and IOP. Specifically document examination of: 
+* lids (may be burned, oedematous) 
+* conjunctiva (staining extent, chemosis, haemorrhage)
+* Presence and % extent of limbal ischaemia (prognostic)
+* Cornea (clarity, size of epi defect, **BEWARE** total epithelial defect may be mistaken for normal cornea)
+* A/C depth and if inflammation present
+* Lens opacity
+* Fundus exam
+6. Limbal ischaemia may not be present immediately, any patient with moderate to severe burn should be followed up 1-2 days
 
-2. Treat relevant cause 
- a.	PACG = see management 
- b. If suspect secondary causes eg lens, aqueous misdirection, choroidals, etc, lower IOP, but **DISCUSS WITH GLAUCOMA CONSULTANT** before using pilocarpine 
 
-3.	All PACG should have bilateral PIs before leaving department 
 
-4.	Arrange follow-up at 7 days 
 
  ## MANAGEMENT 
 
  
  ### _IMMEDIATE_ 
  
-1. Diamox 500mg IV (if acute + symptoms)
-2. Pilocarpine 2% (4% dark irides)
-3. Timolol 0.25% (check contraindications: asthma, heartblock)
-4. Iopidine 0.5%
-5. Pred forte 1%
-6. Lie patient supine 
-7. Analgesia/antiemetics 
-
- ### _REASSESS @ 60 MIN_ 
+1. Check pH both eyes (normal 7.3 - 7.6)  
+*Do not delay irrigation if cannot find litmus paper immediately*
+3. Topical analgesia and irrigation (may need speculum), 2L normal saline.  Use plastic IV giving set tubing to allow for more controlled flow.
+4. Check pH 5 min after stopping irrigation. 
+*   If normal recheck pH every 15 mins for 1 hour to ensure no retained material.
+* If abnormal after irrigation repeat with 2L NaCl and re-examine, consider double eversion of lids and sweeping fornix with cotton bud.
+4. Continue irrigating until normal pH.  If pH persistently abnormal look again for retained matter.
+5. Grade extent of damage. 
+http://eyewiki.aao.org/Chemical_(Alkali_and_Acid)_Injury_of_the_Conjunctiva_and_Cornea
  
-1.  IOP still elevated: 
-a. Consider indenting central cornea gently with 4 mirror lens or moistened cotton bud. 2–3 cycles of 30s on/off 
-b. Discuss with glaucoma/urgent care consultant regarding further management
 
-2.	IOP reduced 
-a. Bilateral PIs, then if IOP controlled, discharge on:
-i. Pilocarpine 2% qid (4% dark irides)
-ii.	Apraclonidine 0.5% tid
-iii. Pred forte 1% 2-hourly, qid in fellow eye 
-iv.	Acetazolamide PO 250mg qid, (omit if IOP <10mm HG)
-   
-   b. Book follow-up 7 days glaucoma clinic. Notify consultant of patient.
  
  ## CAUTION 
  
-**All urgent care cases should be discussed with the allocated urgent care consultant of the day (listed on rota)**
+Further reading
+https://www.rcophth.ac.uk/wp-content/uploads/2018/04/College-News-April-2018-Focus.pdf
 
 
-
-1.	Acetazolomide: 
-a.	Careful use of in elderly &/or small patients
-b.	Check contraindications
-c.	Explain likely SEs, and what to do if concerned
-
-2.	Pilocarpine: 
-a.	Do not use intensively
-b.	May be ineffective if IOP>50, can also cause paradoxical A/C shallowing and worsen pupil block if used intensively
 
 
 

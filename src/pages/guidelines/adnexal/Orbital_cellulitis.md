@@ -102,14 +102,25 @@ c. Adnexal/ENT team to be involved at SGH ASAP (see transfer guide above)
 2.	Immunocompromsied patients can have unusual organisms: 
 
 
-
-
- ## CHAIN OF COMMANDS
+ ## CLINIC FOR FOLLOW-UPS
+1. Rapid Access clinic - fill referral form and email to moorfields.croydonurgentcare@nhs.net
  
- ADULT
- 1. Ms Pei-Fen Lin (Urgent care consultant/ p.lin@nhs.net)
- 2. Ms Pari Shams (Adnexal consultant/ Pari.Shams@moorfields.nhs.net)
- 3. Mr Danielle Lorenzano ( Danilelle.lorenzano@moorfields.nhs.net)
-     
- PAEDIATRIC
- 1. Mr Chris Child ( chris.child@moorfields.nhs.net)
+2. General clinic
+
+emma.skinner10@nhs.net
+
+Miss Pei-Fen Lin ( p.lin@nhs.net)
+
+3. Adnexal team:
+
+emma.skinner10@nhs.net
+
+Miss Pari. Shams ( Consultant) Pari.Shams@moorfields.nhs.uk
+
+Mr Daniele Lorenzano ( Consultant) d.lorenzano@nhs.net
+
+4. Paediatric team:
+
+Mr Chris Child ( Associate Specialist / chris.child@moorfields.nhs.net)
+
+Ms Alison Davis (Consultant/ alison.davis20@nhs.net) 

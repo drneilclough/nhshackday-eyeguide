@@ -9,9 +9,10 @@ Corneal protection is main concern, there is a risk of sight threatening keratit
 
 **Managment**
 * Regular lubricants +/- chloramphenicol PF
-* Consider lid taping
+* Consider lid taping. Tape between lower lid and cheek to evert lid
+https://www.moorfields.nhs.uk/sites/default/files/Adnexal-Entropion.pdf
 * Consider large diameter contact lens if no sign of keratitis
-* Etropion secondary to over-riding of anterior lamellar can be treated temporarily with 20iu of Dysport
+* Ectropion secondary to over-riding of anterior lamellar can be treated temporarily with 20iu of Dysport
 
 Patients should be referred to adnexal team.  Urgency depends on extent of corneal involvement.  If keratitis present then consider urgent surgery
 
@@ -36,5 +37,6 @@ All day Thur
 **Adnexal Theatre:**
 
 Wed pm 
+
 
 

@@ -40,20 +40,24 @@ max dose calculations
 
 Minor lacerations can be followed up in general opthalmology clinic in 2 weeks
 To arrange email:
+
 emma.skinner10@nhs.net
+
 p.lin@nhs.net
 
 For more complex cases please contact adnexal team
 Email:
+
 emma.skinner10@nhs.net
+
 Pari.Shams@moorfields.nhs.uk
+
 d.lorenzano@nhs.net
 
 Adnexal clinics: 
 All day Tue
 Wed morning 
 All day Thur
-
-
 Adnexal Theatre:
 Wed pm 
+

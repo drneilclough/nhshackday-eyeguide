@@ -14,7 +14,7 @@ category: ["external"]
 * lids (may be burned, oedematous) 
 * conjunctiva (staining extent, chemosis, haemorrhage)
 * Presence and % extent of limbal ischaemia (prognostic)
-* Cornea (clarity, size of epi defect, **BEWARE** total epithelial defect may be mistaken for normal cornea as may not take up fluoerscein)
+* Cornea (clarity, size of epi defect, **BEWARE** total epithelial defect may be mistaken for normal cornea as may not take up fluorescein)
 * A/C depth and if inflammation present
 * Lens opacity
 * Fundus exam

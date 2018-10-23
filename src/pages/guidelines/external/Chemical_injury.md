@@ -59,7 +59,7 @@ Corneal consultant/fellow should be made aware of all moderate/severe burns
 * Arrange next day review.  Severe and/or bilateral burns consider admission to help with drop regimen
 
 
- *Doxyxycline contraindications:*
+ *Doxycycline contraindications:*
  Children <12yrs, pregnant/breastfeeding, hepatic/renal impaiment
  
  

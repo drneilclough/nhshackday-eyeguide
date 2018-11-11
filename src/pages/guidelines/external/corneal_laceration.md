@@ -1,67 +1,57 @@
 ---
 title: Corneal Laceration
-date: "2017-08-21"
+date: "2018-11-11"
 category: ["external"]
 ---
 
-## KEY ADVICE 
+## KEY ADVICE
+* Careful documentation of time and events of injury.  Records may be used in court if assualt or occupation related. 
+* If any suspicion of intraocular forgeign body then CT scan orbits. 
+* May need tetanus prophylaxis
+    https://www.nhs.uk/conditions/tetanus/
+* Discuss all cases with consultant and corneal fellow.
 
-1.  Mechanism = primary or secondary? 
-  a.	Primary (90%) = pupil block or peripheral iris crowding 
-  b.	Secondary (10%) = lens induced, causes behind lens
- c.	?Pupil block present: Peripheral iris usually flattens on indentation gonioscopy in pupil block PACG
- d.	If pupil block present, but AC is asymmetrically   shallow centrally, consider secondary causes 
 
-2. Treat relevant cause 
- a.	PACG = see management 
- b. If suspect secondary causes eg lens, aqueous misdirection, choroidals, etc, lower IOP, but **DISCUSS WITH GLAUCOMA CONSULTANT** before using pilocarpine 
+## Examination
 
-3.	All PACG should have bilateral PIs before leaving department 
+*    Check for RAPD and normal fields/retinal projection.
+*    Do not apply pressure to globe if suspect globe rupture. ie do not do goldman, gonio or indent
+*    Describe and measure laceration, look for shelving of wound.  Seidel test. Full thickness wounds may self seal.
+*    A/C check symmetry of depth, cells, hyphaema.
+*    Pupil shape, trauma to iris or iris in wound.
+*    Dilate, examine media and fundus.
+## Managment
+All patients should have daily review until epithelium healed.
+Discuss all cases with consultant and corneal fellow.
 
-4.	Arrange follow-up at 7 days 
 
- ## MANAGEMENT 
+**Partial Thickness**
 
- 
- ### _IMMEDIATE_ 
- 
-1. Diamox 500mg IV (if acute + symptoms)
-2. Pilocarpine 2% (4% dark irides)
-3. Timolol 0.25% (check contraindications: asthma, heartblock)
-4. Iopidine 0.5%
-5. Pred forte 1%
-6. Lie patient supine 
-7. Analgesia/antiemetics 
+* Clear any remaining foreign matter.
+* If wound edges well apposed and no step then unlikely to need suturing.  Wounds that gape will usually need to be sutured.
+* Wounds should only be sutured in theatre.  Use 10/0 nylon.
 
- ### _REASSESS @ 60 MIN_ 
- 
-1.  IOP still elevated: 
-a. Consider indenting central cornea gently with 4 mirror lens or moistened cotton bud. 2–3 cycles of 30s on/off 
-b. Discuss with glaucoma/urgent care consultant regarding further management
 
-2.	IOP reduced 
-a. Bilateral PIs, then if IOP controlled, discharge on:
-i. Pilocarpine 2% qid (4% dark irides)
-ii.	Apraclonidine 0.5% tid
-iii. Pred forte 1% 2-hourly, qid in fellow eye 
-iv.	Acetazolamide PO 250mg qid, (omit if IOP <10mm HG)
-   
-   b. Book follow-up 7 days glaucoma clinic. Notify consultant of patient.
- 
- ## CAUTION 
- 
-**All urgent care cases should be discussed with the allocated urgent care consultant of the day (listed on rota)**
+**Full Thickness** 
+
+* **Self sealed:** manage as outpaitient
+    * po 400mg moxifloxacin od, **NOTE** Children use co-amoxiclav instead.
+    * g chloramphenicol PF qds 
+* **Minimnal leak:** Consider inpatient admission.
+    * Place bandage contact lens.  
+    * Treat as for self sealed (see above).
+* **Leak with A/C shallowing:** Admit as inpatient.
+    * po moxifloxaxin od.  Give dose then make NBM. **NOTE** Children use co-amoxiclav instead.
+    * Arrange theatre asap.  Use 10/0 nylon to suture. 
 
 
 
-1.	Acetazolomide: 
-a.	Careful use of in elderly &/or small patients
-b.	Check contraindications
-c.	Explain likely SEs, and what to do if concerned
 
-2.	Pilocarpine: 
-a.	Do not use intensively
-b.	May be ineffective if IOP>50, can also cause paradoxical A/C shallowing and worsen pupil block if used intensively
+**Corneal clinc email:**
 
+emma.skinner10@nhs.net
 
+**Corneal consultant email:**
+
+nicolalau@nhs.net
 

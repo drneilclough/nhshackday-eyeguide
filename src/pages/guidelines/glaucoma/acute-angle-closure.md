@@ -54,3 +54,27 @@ category: ["glaucoma"]
 **Pilocarpine:**
 * Do not use intensively
 * May be ineffective if IOP>50, can also cause paradoxical A/C shallowing and worsen pupil block if used intensively
+
+## Clinics
+mon am, tue pm, all day wed, fri pm
+
+Link to live clinic rota:
+https://docs.google.com/spreadsheets/d/1tII7IGXtp5B4x-axb0rRzVnAmSkV9sksTbK-RfZQeZU/edit?usp=sharing
+
+## Follow-up and consultant contact details
+
+
+Glaucoma Consultant:
+
+Kuang.Hu@moorfields.nhs.uk
+
+Parham.Azarbod@moorfields.nhs.uk
+
+Eleni.Nikita@moorfields.nhs.uk
+
+Secrectary:
+
+emma.skinner10@nhs.net
+
+
+

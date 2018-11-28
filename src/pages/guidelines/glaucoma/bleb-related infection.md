@@ -39,7 +39,7 @@ category: ["glaucoma"]
 * Contact consultant on call, glaucoma fellow and consultant 
 
 ## Clinics
-eg. mon am, tue pm, all day wed, fri pm
+mon am, tue pm, all day wed, fri pm
 
 Link to live clinic rota:
 https://docs.google.com/spreadsheets/d/1tII7IGXtp5B4x-axb0rRzVnAmSkV9sksTbK-RfZQeZU/edit?usp=sharing

@@ -59,11 +59,26 @@ category: ["adnexal"]
 
 
 
-## Adnexal Consultants
 
-Ms Pari Shams (CUH)
-Mr Daniele Lorenzo (CUH)
-Mr Jimmy Uddin (SGH)
-Ms Sarah Osborne (SGH)
+**Adnexal team**
+
+[emma.skinner10@nhs.net](https://)
+
+[Pari.Shams@moorfields.nhs.uk](https://)
+
+[d.lorenzano@nhs.net](https://)
+
+**Adnexal clinics:**
+
+All day Tue
+
+Wed morning 
+
+All day Thur
+
+
+**Adnexal Theatre:**
+
+Wed pm 
 
 

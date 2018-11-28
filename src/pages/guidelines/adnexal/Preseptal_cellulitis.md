@@ -48,3 +48,25 @@ category: ["adnexal"]
 **BEWARE OF CHILDREN, UNUSUAL PRESENTATION, IMMUNOCOMPROMISED, HX OF HEAD/SINUS INFECTION OR TRAUMA**
 
 **Confident that you have not missed an orbital cellulitis**
+
+
+**Adnexal team**
+
+[emma.skinner10@nhs.net](https://)
+
+[Pari.Shams@moorfields.nhs.uk](https://)
+
+[d.lorenzano@nhs.net](https://)
+
+**Adnexal clinics:**
+
+All day Tue
+
+Wed morning 
+
+All day Thur
+
+
+**Adnexal Theatre:**
+
+Wed pm 

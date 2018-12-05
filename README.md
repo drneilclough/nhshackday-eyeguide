@@ -10,7 +10,7 @@ This is a prototype project, not approved for clinical use.
 ## Running Locally
 
 1. Make sure that you have the Gatsby CLI program installed using `npm install --global gatsby-cli`
-2. Clone this repo `git clone https://github.com/vlbee/nhshackday-eyeguide.git` and navigate into it `cd nhshackday-eyeguide`
+2. Clone this repo `git clone https://github.com/drneilclough/nhshackday-eyeguide.git` and navigate into it `cd nhshackday-eyeguide`
 3. Install the required dependencies `npm i`
 4. Run `gatsby develop`
 5. Access the site at `http://localhost:8000/`

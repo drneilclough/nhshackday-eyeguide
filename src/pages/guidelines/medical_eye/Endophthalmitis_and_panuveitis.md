@@ -1,5 +1,5 @@
 ---
-title: Intermediate panuveitis
+title: Endophthalmitis and panuveitis
 date: "2017-08-21"
 category: ["medical"]
 ---

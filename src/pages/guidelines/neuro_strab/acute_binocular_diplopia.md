@@ -1,5 +1,5 @@
 ---
-title: Acute 3rd Nerve
+title: Acute binocular diplopia
 date: "2017-08-21"
 category: ["neuro"]
 ---

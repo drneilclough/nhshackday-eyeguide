@@ -54,7 +54,8 @@ category: ["external"]
  (email: moorfields.croydonurgentcare@nhs.net)
  3. If epithelial defect resolved - taper to 6xday for 1 week and discharge
  4. If improving but still have defect - refer for review in General clinic/ PCC via email.
- 5. If no improvement or worsening in symptoms and signs - duty consultant or corneal fellow for urgent review.
+ 5. If no improvement or worsening in symptoms and signs - Contact Corneal consultant / Fellow Urgently (email: nicola.lau@nhs.net)
+ 6. If Large corneal abscess / assoicated with performation / leak / melt - contact Corneal consultant same day.  May require transfer to SGH ( See corneal admission page for guidance on transfer )
 
  ## CAUTION 
  

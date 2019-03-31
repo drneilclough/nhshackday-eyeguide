@@ -1,5 +1,5 @@
 ---
-title: Wer AMD
+title: Wet AMD
 date: "2017-08-21"
 category: ["retina"]
 ---

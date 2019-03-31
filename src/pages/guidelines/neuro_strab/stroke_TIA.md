@@ -1,5 +1,5 @@
 ---
-title: Stroke
+title: Stroke/TIA
 date: "2017-08-21"
 category: ["neuro"]
 ---

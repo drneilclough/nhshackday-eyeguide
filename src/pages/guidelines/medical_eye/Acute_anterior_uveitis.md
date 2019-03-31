@@ -6,52 +6,64 @@ category: ["medical"]
 
 ## KEY ADVICE 
 
-1.  Mechanism = primary or secondary? 
-  a.	Primary (90%) = pupil block or peripheral iris crowding 
-  b.	Secondary (10%) = lens induced, causes behind lens
- c.	?Pupil block present: Peripheral iris usually flattens on indentation gonioscopy in pupil block PACG
- d.	If pupil block present, but AC is asymmetrically   shallow centrally, consider secondary causes 
+1.  Is it definitely only anterior?
+  a. **Always dilate!**
+  b. No fundal view - B-scan to rule out endophthalmitis / posterior uveitis / posterior scleritis etc
+  c. Is there a hypopyon?
+  
 
-2. Treat relevant cause 
- a.	PACG = see management 
- b. If suspect secondary causes eg lens, aqueous misdirection, choroidals, etc, lower IOP, but **DISCUSS WITH GLAUCOMA CONSULTANT** before using pilocarpine 
+2. Primary or secondary causes? 
+  a. Primary: 
+    *   Idiopathic
+    *   HLA-B27 related ( ask AS sympotms)
+    *   Fuch's heterochromic cyclitis
 
-3.	All PACG should have bilateral PIs before leaving department 
+   b. Secondary:
+    *   Consider corneal pathology- ulcer/ HSK / HZV
+    *   Endophthalmitis/ retinitis
 
-4.	Arrange follow-up at 7 days 
+**Consider serious causes if mutton fat / stellate KPs, Hypopyon, hx of surgery, injury**
+
 
  ## MANAGEMENT 
 
  
- ### _IMMEDIATE_ 
+ ### _Principle_ 
  
-1. Diamox 500mg IV (if acute + symptoms)
-2. Pilocarpine 2% (4% dark irides)
-3. Timolol 0.25% (check contraindications: asthma, heartblock)
-4. Iopidine 0.5%
-5. Pred forte 1%
-6. Lie patient supine 
-7. Analgesia/antiemetics 
+1. Manage the Inflammation
+2. Manage the pressure
+3. Induce dilation to break posterior synichiae
+4. Do you need to consider subconj injection?
 
- ### _REASSESS @ 60 MIN_ 
+ ### _Treatment_ 
  
-1.  IOP still elevated: 
-a. Consider indenting central cornea gently with 4 mirror lens or moistened cotton bud. 2–3 cycles of 30s on/off 
-b. Discuss with glaucoma/urgent care consultant regarding further management
+1.  Inflammation: 
+a. Dexamethasone drop 1% hourly 2 days then 6x/day for 1 week
+b. In simple cases taper above over 6 weeks
 
-2.	IOP reduced 
-a. Bilateral PIs, then if IOP controlled, discharge on:
-i. Pilocarpine 2% qid (4% dark irides)
-ii.	Apraclonidine 0.5% tid
-iii. Pred forte 1% 2-hourly, qid in fellow eye 
-iv.	Acetazolamide PO 250mg qid, (omit if IOP <10mm HG)
-   
-   b. Book follow-up 7 days glaucoma clinic. Notify consultant of patient.
+2. Dilation:
+a. cycloplentolate 1% BD for at least first week
+
+4. IOP  
+a. Use B-blocker, topical calcium channel blocker ( brinzolamide) first
+b. Oral diamox if required
+c. Avoid Alpha-agonists ( pro-inflammatory)
+d. Avoid Prostaglandin, but if already on prostaglandin for glaucoma no need to stop.
+
+4. Subconjunctival injection:
+a. for severe cases
+b. 1ml subconj mydricaine ( need to check)
+
+5. Book follow-up:
+    a. If simple AAU or known recurrent - PCC or Uveitis 6-8 weeks
+    b. If IOP high- review 1 week for IOP check in PCC
+    c. If severe - discuss with duty consultant / uveitis team.  Email Mr Will Tucker Uveitis consultant at : william.tucker@nhs.net
+    
+  
  
  ## CAUTION 
  
-**All urgent care cases should be discussed with the allocated urgent care consultant of the day (listed on rota)**
-
+**All severe or paediatric cases should be discussed with the allocated Rapid Access clinic consultant of the day (listed on rota)**
 
 
 1.	Acetazolomide: 
@@ -59,6 +71,7 @@ a.	Careful use of in elderly &/or small patients
 b.	Check contraindications
 c.	Explain likely SEs, and what to do if concerned
 
-2.	Pilocarpine: 
-a.	Do not use intensively
-b.	May be ineffective if IOP>50, can also cause paradoxical A/C shallowing and worsen pupil block if used intensively
+2.	Children with anterior uveitis: 
+a.	Can be minimal or asymptomatic
+b.  Steroids can induce very high pressure in kids
+c.  Be aware of JIA - discuss with paediatric consultant with considering f/u

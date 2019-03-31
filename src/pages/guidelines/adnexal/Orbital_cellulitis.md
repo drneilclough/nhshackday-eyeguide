@@ -99,7 +99,10 @@ c. Adnexal/ENT team to be involved at SGH ASAP (see transfer guide above)
 
 1.	Children can deteriorate very fast
 
-2.	Immunocompromsied patients can have unusual organisms: 
+2.	Immunocompromsied patients can have unusual organisms:
+
+ENT UK guidance on orbital cellulitis:
+https://www.entuk.org/sites/default/files/files/ENT%20UK%20Revised%20Orbital%20Cellulitis%20Flow%20Chart%202017.pdf
 
 
  ## CLINIC FOR FOLLOW-UPS

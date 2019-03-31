@@ -1,5 +1,5 @@
 ---
-title: Papilloedema
+title: Swollen discs
 date: "2017-08-21"
 category: ["neuro"]
 ---
